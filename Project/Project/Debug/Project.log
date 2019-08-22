@@ -1,0 +1,7 @@
+﻿  TravelMap.cpp
+c:\users\caucherwang\desktop\数据结构pj\project\project\travelmap.cpp(5): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\caucherwang\desktop\数据结构pj\project\project\travelmap.cpp(115): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\caucherwang\desktop\数据结构pj\project\project\travelmap.cpp(142): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\caucherwang\desktop\数据结构pj\project\project\travelmap.cpp(363): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\caucherwang\desktop\数据结构pj\project\project\travelmap.cpp(388): warning C4018: “<”: 有符号/无符号不匹配
+  Project.vcxproj -> C:\Users\CaucherWang\Desktop\数据结构PJ\Project\Debug\Project.exe
